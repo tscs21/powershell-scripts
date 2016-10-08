@@ -1,0 +1,10 @@
+﻿Installing assembly 'F:\Libraries\Documents\Documents\Scripts\HelloWorld.dll'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Libraries\Documents\Documents\Scripts\HelloWorld.InstallLog
+   assemblypath = F:\Libraries\Documents\Documents\Scripts\HelloWorld.dll
+Committing assembly 'F:\Libraries\Documents\Documents\Scripts\HelloWorld.dll'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Libraries\Documents\Documents\Scripts\HelloWorld.InstallLog
+   assemblypath = F:\Libraries\Documents\Documents\Scripts\HelloWorld.dll
